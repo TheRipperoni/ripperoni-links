@@ -31,6 +31,11 @@ const links = [
     url: 'https://mutes.ripperoni.com/',
     gradient: 'linear-gradient(135deg, #f97316 0%, #ef4444 100%)',
   },
+  {
+    label: 'Ko-fi',
+    url: 'https://ko-fi.com/ripperoni',
+    gradient: 'linear-gradient(135deg, #ff5e5b 0%, #ffb347 100%)',
+  },
 ]
 
 function App() {
